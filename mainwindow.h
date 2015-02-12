@@ -39,15 +39,15 @@ public:
     ~MainWindow();
 
     void updateArrangement();
-    void keyPressEvent(QKeyEvent *ke);
+//    void keyPressEvent(QKeyEvent *ke);
 
 public slots:
-    void preset1();
-    void preset2();
-    void preset3();
-    void preset4();
-    void preset5();
-    void resetTiles();
+//    void preset1();
+//    void preset2();
+//    void preset3();
+//    void preset4();
+//    void preset5();
+//    void resetTiles();
 
 public:
     QList<Tile*> tiles;
