@@ -175,6 +175,3 @@ void MainWindow::keyPressEvent(QKeyEvent *ke)
 
     QMainWindow::keyPressEvent(ke);
 }
-
-
-
